@@ -1,0 +1,1 @@
+#aula para informar o que é string (str), sem muitas dificuldades
